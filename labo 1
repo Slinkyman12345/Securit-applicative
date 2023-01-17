@@ -1,0 +1,6 @@
+ajouter un user sur la machine
+
+Adduser vs useradd :
+
+•	adduser --> interactive
+•	useradd --> on donne nous-même l’info
